@@ -1,0 +1,1458 @@
+{
+  "users": [{
+      "id": 1,
+      "name": "jhon",
+      "email": "jhon@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "mark",
+      "email": "mark@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "smith",
+      "email": "smith@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "andrew",
+      "email": "andrew@gmail.com"
+    }
+  ], 
+  "shops": [{
+      "id": 1,
+      "shopName": "Nobanno mela ghor",
+      "ownerName": "Zannatul Fouzia",
+      "shopImage": "/img/shop/cover/nobanno_mela_ghor.jpeg",
+      "category": "Dress",
+      "products": [{
+          "id": 1,
+          "name": "Nokshi Katha",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Socks",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Jute Bag",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/juteBag.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bed cover",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "shopName": "Shimanto Polli",
+      "ownerName": "Ashiatul Shima",
+      "shopImage": "/img/shop/cover/shimanto_polli.jpeg",
+      "category": "Interior Decor",
+      "products": [{
+          "id": 1,
+          "name": "Candles",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-5.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Jute Art",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/juteArt.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Scarf",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/scarf.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Trivets",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/trivets.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "shopName": "Banglar mela",
+      "ownerName": "Zannatul Fouzia",
+      "shopImage": "/img/shop/cover/nobanno_mela_ghor.jpeg",
+      "category": "Varaities",
+      "products": [{
+          "id": 1,
+          "name": "Saree",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-6.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bati",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-7.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-8.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "shopName": "Kalponik",
+      "ownerName": "Ashiatul Shima",
+      "shopImage": "/img/shop/cover/shimanto_polli.jpeg",
+      "category": "Interior Decor",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-10.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-11.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-12.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-13.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "shopName": "Sobbosachi",
+      "ownerName": "Zannatul Fouzia",
+      "shopImage": "/img/shop/cover/nobanno_mela_ghor.jpeg",
+      "category": "Varaities",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-14.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-15.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-16.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-17.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "shopName": "Jonaki Store",
+      "ownerName": "Ashiatul Shima",
+      "shopImage": "/img/shop/cover/product-18.jpg",
+      "category": "Interior Decor",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-19.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-20.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-21.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/eyeglassHolder.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "shopName": "Maa enterprise",
+      "ownerName": "Zannatul Fouzia",
+      "shopImage": "/img/shop/cover/nobanno_mela_ghor.jpeg",
+      "category": "Gift Item",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-42.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-43.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-44.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-45.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "shopName": "Karuponno",
+      "ownerName": "Ashiatul Shima",
+      "shopImage": "/img/shop/cover/shimanto_polli.jpeg",
+      "category": "Interior Decor",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-22.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-23.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-24.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-25.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "shopName": "Ray Kutir",
+      "ownerName": "Zannatul Fouzia",
+      "shopImage": "/img/shop/cover/nobanno_mela_ghor.jpeg",
+      "category": "Gift Item",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-38.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-39.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-40.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-41.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "shopName": "Jannat Store",
+      "ownerName": "Ashiatul Shima",
+      "shopImage": "/img/shop/cover/shimanto_polli.jpeg",
+      "category": "Gift Item",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-26.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-27.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-28.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-29.jpg"
+        }
+      ]
+    }
+
+  ],
+
+  "topShops": [{
+      "id": 1,
+      "shopName": "Crafts Bangladesh",
+      "ownerName": "Zannatul Fouzia",
+      "shopImage": "/img/shop/cover/product-30.jpg",
+      "category": "Dress",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-31.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-32.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-33.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-34.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "shopName": "Dhaka Silk",
+      "ownerName": "Ashiatul Shima",
+      "shopImage": "/img/shop/cover/shimanto_polli.jpeg",
+      "category": "Interior Decor",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-35.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-36.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-37.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-37.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "shopName": "Rajshahi Store",
+      "ownerName": "Zannatul Fouzia",
+      "shopImage": "/img/shop/cover/product-38.jpg",
+      "category": "Varaities",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-39.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-40.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-41.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-42.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "shopName": "Homemader",
+      "ownerName": "Ashiatul Shima",
+      "shopImage": "/img/shop/cover/shimanto_polli.jpeg",
+      "category": "Interior Decor",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-43.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-44.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-45.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-46.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "shopName": "Apon Shop",
+      "ownerName": "Zannatul Fouzia",
+      "shopImage": "/img/shop/cover/nobanno_mela_ghor.jpeg",
+      "category": "Varaities",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-47.jpgg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-48.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-49.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-50.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "shopName": "Nouka",
+      "ownerName": "Ashiatul Shima",
+      "shopImage": "/img/shop/cover/shimanto_polli.jpeg",
+      "category": "Interior Decor",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-51.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-52.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-53.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-54.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "shopName": "Julie store",
+      "ownerName": "Zannatul Fouzia",
+      "shopImage": "/img/shop/cover/nobanno_mela_ghor.jpeg",
+      "category": "Gift Item",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-55.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-56.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-57.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-58.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "shopName": "Andormohol",
+      "ownerName": "Ashiatul Shima",
+      "shopImage": "/img/shop/cover/shimanto_polli.jpeg",
+      "category": "Interior Decor",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-59.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Little Gifts Kaisa Basket",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-60.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Wooden Elephant Figurine",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-61.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Socks",
+          "category": "Home Decor",
+          "subcategory": "Interior item",
+          "image": "/assets/images/product-62.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "shopName": "Rash",
+      "ownerName": "Zannatul Fouzia",
+      "shopImage": "/img/shop/cover/nobanno_mela_ghor.jpeg",
+      "category": "Gift Item",
+      "products": [{
+          "id": 1,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "image": "/assets/images/product-63.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-64.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-65.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Eyeglass Holder",
+          "category": "Home Decor",
+          "subcategory": "Decor",
+          "subsubcategory": null,
+          "price": 5000,
+          "discount": 15,
+          "image": "/assets/images/product-66.jpg"
+        }
+      ]
+    }
+
+  ],
+  "productCategories": [
+    "Electronic Devices",
+    "Electronic Accessories",
+    "TV & Home Appliances",
+    "Health & Beauty",
+    "Babies & Toys",
+    "Groceries & Pets",
+    "Home & Lifestyle",
+    "Women\"s Fashion",
+    "Men\"s Fashion",
+    "Sports & Outdoor"
+  ],
+  "newProducts": [{
+      "id": 1,
+      "name": "Eyeglass Holder",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 15,
+      "tag": "new",
+      "image": "/assets/images/eyeglassHolder.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cover cushion",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 15,
+      "tag": "new",
+      "image": "/assets/images/product-3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bed Sheet",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 25,
+      "tag": "new",
+      "image": "/assets/images/product-4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jute Bag ",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "new",
+      "image": "/assets/images/juteBag.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Jamdani",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "new",
+      "image": "/assets/images/jamdani.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Little Gifts Kaisa Basket",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 5,
+      "tag": "new",
+      "image": "/assets/images/product-7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Wooden Elephant Figurine",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 25,
+      "tag": "new",
+      "image": "/assets/images/Elephant Figurine.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Socks",
+      "category": "Home Decor",
+      "subcategory": "Interior item",
+      "subsubcategory": null,
+      "price": 250,
+      "discount": 0,
+      "tag": "new",
+      "image": "/assets/images/product-2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Wooden Wall Hanging",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "new",
+      "image": "/assets/images/juteArt.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sari Scarf",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "new",
+      "image": "/assets/images/scarf.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Handcrafted Sunflower Trivets",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "new",
+      "image": "/assets/images/trivets.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Saree",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "new",
+      "image": "/assets/images/product-6.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Nokshi Katha",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 5,
+      "tag": "new",
+      "image": "/assets/images/product-1.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Candles",
+      "category": "Home Decor",
+      "subcategory": "Interior item",
+      "subsubcategory": null,
+      "price": 250,
+      "discount": 0,
+      "tag": "new",
+      "image": "/assets/images/product-5.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Test",
+      "category": "1",
+      "subcategory": "Apparel",
+      "subsubcategory": "",
+      "price": "1234",
+      "discount": "",
+      "tag": "new",
+      "image": ""
+    }
+  ],
+  "topProducts": [{
+      "id": 1,
+      "name": "Wooden Hand Carved Elephant",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 15,
+      "tag": "top",
+      "image": "/assets/images/woodelephant.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Handmade pirate boat",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 15,
+      "tag": "top",
+      "image": "/assets/images/pirate.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Handmade Artificial Anthurium",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 25,
+      "tag": "top",
+      "image": "/assets/images/anthuriam.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Coffee cup ceramic mug",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "top",
+      "image": "/assets/images/cofeeCup.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Advent calendar Handicrafts",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "top",
+      "image": "/assets/images/calendar.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Little Gifts Kaisa Basket",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 5,
+      "tag": "top",
+      "image": "/assets/images/product-7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Wooden Elephant Figurine",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 25,
+      "tag": "top",
+      "image": "/assets/images/Elephant Figurine.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Socks",
+      "category": "Home Decor",
+      "subcategory": "Interior item",
+      "subsubcategory": null,
+      "price": 250,
+      "discount": 0,
+      "tag": "top",
+      "image": "/assets/images/product-2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Wooden Wall Hanging",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "top",
+      "image": "/assets/images/juteArt.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sari Scarf",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "top",
+      "image": "/assets/images/scarf.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Handcrafted Sunflower Trivets",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "top",
+      "image": "/assets/images/trivets.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Saree",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "top",
+      "image": "/assets/images/product-6.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Nokshi Katha",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 5,
+      "tag": "top",
+      "image": "/assets/images/product-1.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Candles",
+      "category": "Home Decor",
+      "subcategory": "Interior item",
+      "subsubcategory": null,
+      "price": 250,
+      "discount": 0,
+      "tag": "top",
+      "image": "/assets/images/product-5.jpg"
+    }
+  ],
+  "bestProducts": [{
+      "id": 1,
+      "name": "Baby shoe",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 15,
+      "tag": "best",
+      "image": "/assets/images/baby-shoe.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Boutique Hat",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 15,
+      "tag": "best",
+      "image": "/assets/images/Boutique Hat.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cusion Matrix",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 25,
+      "tag": "best",
+      "image": "/assets/images/Cusion Matrix.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Flower Bucket",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "best",
+      "image": "/assets/images/Flower Bucket.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Gem Mason Jar",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "best",
+      "image": "/assets/images/Gem Mason Jar.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jwellary",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 5,
+      "tag": "best",
+      "image": "/assets/images/Jwellary.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Ladder Plant Shelf",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 25,
+      "tag": "best",
+      "image": "/assets/images/Ladder Plant Shelf.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Lamp",
+      "category": "Home Decor",
+      "subcategory": "Interior item",
+      "subsubcategory": null,
+      "price": 250,
+      "discount": 0,
+      "tag": "best",
+      "image": "/assets/images/Lamp.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Pearl Jwellary",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "best",
+      "image": "/assets/images/Pearl Jwellary.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Wooden Lamps",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "best",
+      "image": "/assets/images/Wooden Lamps.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Handcrafted Sunflower Trivets",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "best",
+      "image": "/assets/images/trivets.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Saree",
+      "category": "Apperals",
+      "subcategory": "Dress",
+      "subsubcategory": "Saree",
+      "price": 2500,
+      "discount": 15,
+      "tag": "best",
+      "image": "/assets/images/product-6.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Nokshi Katha",
+      "category": "Home Decor",
+      "subcategory": "Decor",
+      "subsubcategory": null,
+      "price": 5000,
+      "discount": 5,
+      "tag": "best",
+      "image": "/assets/images/product-1.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Candles",
+      "category": "Home Decor",
+      "subcategory": "Interior item",
+      "subsubcategory": null,
+      "price": 250,
+      "discount": 0,
+      "tag": "best",
+      "image": "/assets/images/product-5.jpg"
+    }
+  ],
+  "latest-shops": [{
+      "id": 1,
+      "name": "Jamdani Shop",
+      "title": "A shop that sell nothing",
+      "location": "Dhaka",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum consectetur numquam, unde culpa nam possimus.",
+      "image": "/assets/images/product-2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Moslin Shop",
+      "title": "A shop that sell nothing",
+      "location": "Dhaka",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum consectetur numquam, unde culpa nam possimus.",
+      "image": "/assets/images/product-3.jpg"
+    }
+  ],
+  "freeCourses": [{
+      "title": "Fashion Designing",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images/fashion.jpg"
+    },
+    {
+      "title": "Craft Business",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images/craft.jpg"
+    },
+    {
+      "title": "Product packaging and distribution",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images/productPackage.png"
+    },
+    {
+      "title": "Startup business-A2Z",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images/startup.jpg"
+    },
+    {
+      "title": "Beaded Jewelry Maker",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images//course-1.png"
+    },
+    {
+      "title": "Scented Candle Maker",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images//course-1.png"
+    }
+  ],
+  "proCourses": [{
+      "title": "Handbag Maker",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images/handBagCourse.jpg"
+    },
+    {
+      "title": "Scarf Maker",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images/scarfMaker.jpg"
+    },
+    {
+      "title": "Custom Embroiderer",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images/embro.jpg"
+    },
+    {
+      "title": "Plush Toy Maker",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images/plushToy.jpg"
+    },
+    {
+      "title": "Gift Basket Service",
+      "description": "Lorem ipsum dolor sit amet",
+      "price": "8.5",
+      "buttonText": "BUY NOW",
+      "img": "../../../../../assets/images//course-1.png"
+    }
+  ]
+}
